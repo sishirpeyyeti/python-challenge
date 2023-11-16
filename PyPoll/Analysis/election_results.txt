@@ -1,0 +1,14 @@
+Total Votes: 369711
+-------------------------
+List of Candidates:
+Charles Casper Stockham
+Diana DeGette
+Raymon Anthony Doane
+-------------------------
+Percentage of Votes Each Candidate Won:
+Charles Casper Stockham: 23.05%
+Diana DeGette: 73.81%
+Raymon Anthony Doane: 3.14%
+-------------------------
+Winner: Diana DeGette
+-------------------------
